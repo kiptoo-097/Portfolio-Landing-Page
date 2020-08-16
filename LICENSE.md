@@ -1,6 +1,6 @@
-Copyright (c) [Kiptoo Kennedy]( https://kiptoo-097.github.io/Portfolio-Landing-Page/) <kiptoo097@gmail.com>
+Copyright (c) [Kiptoo Kennedy]( https://kiptoo-097.github.io/Portfolio-Landing-Page) <kiptoo097@gmail.com>
 
-Project Url:  https://kiptoo-097.github.io/Portfolio-Landing-Page/
+Project Url:  https://kiptoo-097.github.io/Portfolio-Landing-Page
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
