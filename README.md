@@ -1,4 +1,4 @@
-# ![Portfolio]( https://kiptoo-097.github.io/Portfolio-Landing-Page.jpg)
+# ![Portfolio]( https://kiptoo-097.github.io/Portfolio-Landing-Page)
 # Portfolio
 <table>
 <tr>
