@@ -14,7 +14,7 @@ body{
 div{
     background-color:blue;
     width: 250px;
-    height: 700px;
+    height: 668px;
     left: 0px;
 }
 
@@ -133,11 +133,11 @@ h3{
 
 #hline { 
     position: absolute;
-    width:100%;
+    width:99%;
     height:5px; 
     background:blue;
     top:1990px;
-    left: 0px;
+    left: 5px;
 }
 
 .fb{
@@ -155,4 +155,38 @@ h3{
     width: 50px;
     left: 1200px;
 
+}
+
+#contact{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    width: 50px;
+    color: white;
+}
+
+#pic2{
+    position: absolute;
+    left: 40px;
+    top: 819px;
+    height: 170px;
+    width: 170px;
+    border-radius: 90px;
+}
+
+#pic3{
+    position: absolute;
+    left: 40px;
+    top: 1419px;
+    height: 170px;
+    width: 170px;
+    border-radius: 90px;
+}
+
+#contact2{
+    position: absolute;
+    left: 200px;
+    top: 1819px;
+    height: 170px;
+    width: 1370px;
 }
