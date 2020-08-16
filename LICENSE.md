@@ -1,8 +1,6 @@
-The Star And Thank Author License (SATA)
+Copyright (c) [Kiptoo Kennedy]( https://kiptoo-097.github.io/Portfolio-Landing-Page/) <kiptoo097@gmail.com>
 
-Copyright (c) [Harsh Vijay](https://github.com/iharsh234) <iharsh234@gmail.com>
-
-Project Url: https://github.com/iharsh234/WebApp
+Project Url:  https://kiptoo-097.github.io/Portfolio-Landing-Page/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
