@@ -1,3 +1,5 @@
+<img alt="Kiptoo Kennedy Portfolio" src="images/banner.png">
+
 # ![Portfolio]( https://kiptoo-097.github.io/Portfolio-Landing-Page)
 # Portfolio
 <table>
